@@ -51,6 +51,7 @@ end
     words << "s"
   end
   array[1] = array[1].chop()
+  array
 
   end
  
