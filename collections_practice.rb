@@ -47,9 +47,9 @@ end
  end
  
  def add_s(array)
-  # array.each do |words|
-  #   words << "s"
-  # end
+  array.each do |words|
+    words << "s"
+  end
 
   array[1].chomp("s")
   
