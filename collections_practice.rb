@@ -50,8 +50,8 @@ end
   array.each do |words|
     words << "s"
   end
-  array[1] 
-binding.pry
+  array[1] = 
+
   
  end
  
