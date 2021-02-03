@@ -51,7 +51,7 @@ end
     words << "s"
   end
   array.each do |word|
-  # array[1].chomp("s")
+  array[1].chomp("s")
   # array[0..-1]
  end
  
