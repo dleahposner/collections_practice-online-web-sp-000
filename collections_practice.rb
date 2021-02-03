@@ -50,9 +50,9 @@ end
   array.each do |words|
     words << "s"
   end
-  array.each do |word|
-  word[1].chomp("s")
-  # array[0..-1]
+
+  array[1].chomp("s")
+  
  end
  end
  
